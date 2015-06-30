@@ -45,3 +45,5 @@ end
 
 gem 'react-rails', github: 'reactjs/react-rails', branch: 'master'
 gem 'showdown-rails'
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
