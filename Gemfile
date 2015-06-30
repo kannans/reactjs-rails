@@ -52,4 +52,3 @@ gem 'showdown-rails'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 
-ruby "2.2.0"
